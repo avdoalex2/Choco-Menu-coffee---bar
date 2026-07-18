@@ -2,8 +2,6 @@
 
 A stylish, modern, and interactive digital menu created for "Choco", a coffee, bar, and snacks establishment. This project is built with standard web technologies and is designed to be easily viewed on any device, from desktops to mobile phones.
 
-![Choco Menu Screenshot](https://via.placeholder.com/600x400.png?text=Choco+Menu+Screenshot)
-*(Suggestion: Replace the placeholder above with a real screenshot of your menu!)*
 
 ## Features
 
